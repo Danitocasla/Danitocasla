@@ -11,7 +11,4 @@ My name is Daniel, I'm from Argentina and I'm a Student.
 * OOP 2 in progress
 * Data structures
 * computer organization
-
-## Contact
-
-Find me in rdmmendez@hotmail.com
+* Network 1 in progress 
