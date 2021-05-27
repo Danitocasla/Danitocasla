@@ -6,9 +6,9 @@ My name is Daniel, I'm from Argentina and I'm a Student.
 
 ## Subjects
 
-* introduction to programming
+* Introduction to programming
 * OOP 1
 * OOP 2 in progress
 * Data structures
-* computer organization
+* Computer Organization
 * Network 1 in progress 
