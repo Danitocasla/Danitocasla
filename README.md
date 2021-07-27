@@ -12,3 +12,6 @@ My name is Daniel, I'm from Argentina and I'm a Student.
 * Data structures
 * Computer Organization
 * Network 1 in progress 
+
+## Contact
+https://www.linkedin.com/in/daniel-mendez-a3194a217/
